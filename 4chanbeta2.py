@@ -1,5 +1,5 @@
 # raw mainpage scrubber
-
+test
 import os.path
 import re
 import string
